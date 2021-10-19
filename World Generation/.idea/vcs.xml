@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Terasology" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Terasology/modules/BiomesAPI" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Terasology/modules/CoreAdvancedAssets" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Terasology/modules/CoreAssets" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Terasology/modules/CoreRendering" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Terasology/modules/CoreSampleGameplay" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Terasology/modules/CoreWorlds" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Terasology/modules/Drops" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Terasology/modules/Explosives" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Terasology/modules/Furnishings" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Terasology/modules/Health" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Terasology/modules/Inventory" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Terasology/modules/ModuleTestingEnvironment" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Terasology/modules/TutorialWorldGeneration" vcs="Git" />
+  </component>
+</project>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <compositeConfiguration>
+          <compositeBuild compositeDefinitionSource="SCRIPT">
+            <builds>
+              <build path="$PROJECT_DIR$/Terasology/build-logic" name="build-logic">
+                <projects>
+                  <project path="$PROJECT_DIR$/Terasology/build-logic" />
+                </projects>
+              </build>
+            </builds>
+          </compositeBuild>
+        </compositeConfiguration>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="CHOOSE_PER_TEST" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Terasology" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Terasology" />
+            <option value="$PROJECT_DIR$/Terasology/build-logic" />
+            <option value="$PROJECT_DIR$/Terasology/engine" />
+            <option value="$PROJECT_DIR$/Terasology/engine-tests" />
+            <option value="$PROJECT_DIR$/Terasology/facades" />
+            <option value="$PROJECT_DIR$/Terasology/facades/PC" />
+            <option value="$PROJECT_DIR$/Terasology/facades/TeraEd" />
+            <option value="$PROJECT_DIR$/Terasology/libs" />
+            <option value="$PROJECT_DIR$/Terasology/metas" />
+            <option value="$PROJECT_DIR$/Terasology/modules" />
+            <option value="$PROJECT_DIR$/Terasology/modules/BiomesAPI" />
+            <option value="$PROJECT_DIR$/Terasology/modules/CoreAdvancedAssets" />
+            <option value="$PROJECT_DIR$/Terasology/modules/CoreAssets" />
+            <option value="$PROJECT_DIR$/Terasology/modules/CoreRendering" />
+            <option value="$PROJECT_DIR$/Terasology/modules/CoreSampleGameplay" />
+            <option value="$PROJECT_DIR$/Terasology/modules/CoreWorlds" />
+            <option value="$PROJECT_DIR$/Terasology/modules/Drops" />
+            <option value="$PROJECT_DIR$/Terasology/modules/Explosives" />
+            <option value="$PROJECT_DIR$/Terasology/modules/Furnishings" />
+            <option value="$PROJECT_DIR$/Terasology/modules/Health" />
+            <option value="$PROJECT_DIR$/Terasology/modules/Inventory" />
+            <option value="$PROJECT_DIR$/Terasology/modules/ModuleTestingEnvironment" />
+            <option value="$PROJECT_DIR$/Terasology/subsystems" />
+            <option value="$PROJECT_DIR$/Terasology/subsystems/DiscordRPC" />
+            <option value="$PROJECT_DIR$/Terasology/subsystems/TypeHandlerLibrary" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
